@@ -1,0 +1,68 @@
+
+#mybody {
+background-color: rgb(10, 10, 10);
+}
+#mytext {
+color: aliceblue;
+text-transform: uppercase;
+text-align: center;
+text-decoration: underline;
+font-family: fantasy;
+letter-spacing: 0.5cm;
+}
+#mytext2 {
+    color: rgb(92, 92, 92);
+    text-decoration: overline;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    }
+#mytext3 {
+color: rgb(78, 80, 82);
+text-transform: lowercase;
+text-align: right;
+text-transform: initial;
+font-style: italic;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
+#footer {
+    color:aliceblue;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#mydiv{
+    max-width: 500px;
+    background-color: darkcyan;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+.biografia {
+    max-width: 500px;
+    min-width: 500px;
+    background-color: darkcyan;
+    margin: auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+.margen {
+    margin: 15px;
+    font-size: 10px;
+}
+.etiqueta {
+    font-weight: bold;
+    color:darkgray;
+    font-size: x-large;
+    
+}
+.valor {
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+}
+.h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    letter-spacing: 2px;
+}
