@@ -1,0 +1,33 @@
+.body{
+    background-color: darkgray;
+}
+.img{
+    max-width: 350px;
+    min-width: 350px;
+}
+.div1{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    color: black;
+    outline: 2px;
+    outline-width: 2px;
+    outline-style: auto;
+    outline-color: black;
+}
+.center{
+    color: black;
+    text-align: center;
+}
+.h2{
+    color: brown;
+    text-align: center;
+}
+.h3{
+    color: darkcyan;
+    text-align: center;
+}
+.h6{
+    text-align: center;
+}
